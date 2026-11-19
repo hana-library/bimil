@@ -1,0 +1,66 @@
+{
+  "year": 2027,
+  "note": "2026년 12월 제83회 발제는 세O 님입니다.",
+  "slots": [
+    {
+      "no": 84,
+      "month": 1,
+      "presenter": "대O"
+    },
+    {
+      "no": 85,
+      "month": 2,
+      "presenter": "하O"
+    },
+    {
+      "no": 86,
+      "month": 3,
+      "presenter": "병O"
+    },
+    {
+      "no": 87,
+      "month": 4,
+      "presenter": "상O"
+    },
+    {
+      "no": 88,
+      "month": 5,
+      "presenter": "현O"
+    },
+    {
+      "no": 89,
+      "month": 6,
+      "presenter": "세O"
+    },
+    {
+      "no": 90,
+      "month": 7,
+      "presenter": "대O"
+    },
+    {
+      "no": 91,
+      "month": 8,
+      "presenter": "하O"
+    },
+    {
+      "no": 92,
+      "month": 9,
+      "presenter": "병O"
+    },
+    {
+      "no": 93,
+      "month": 10,
+      "presenter": "상O"
+    },
+    {
+      "no": 94,
+      "month": 11,
+      "presenter": "현O"
+    },
+    {
+      "no": 95,
+      "month": 12,
+      "presenter": "세O"
+    }
+  ]
+}

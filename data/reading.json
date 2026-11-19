@@ -1,0 +1,949 @@
+{
+ "updated": "2026-11-03",
+ "meetings": [
+  {
+   "no": 1,
+   "date": "2019-02",
+   "title": "사피엔스",
+   "author": "유발 하라리",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 2,
+   "date": "2019-03",
+   "title": "심리학이 이렇게 쓸모있을 줄이야",
+   "author": "류쉬안",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 3,
+   "date": "2019-04",
+   "title": "지성만이 무기다",
+   "author": "시라토리 하루히코",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 4,
+   "date": "2019-05",
+   "title": "호모데우스",
+   "author": "유발 하라리",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 5,
+   "date": "2019-06",
+   "title": "철학은 어떻게 삶의 무기가 되는가",
+   "author": "야마구치 슈",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 6,
+   "date": "2019-07",
+   "title": "시크하다",
+   "author": "조승연",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 7,
+   "date": "2019-08",
+   "title": "말이 칼이 될때",
+   "author": "홍성수",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 8,
+   "date": "2019-09",
+   "title": "가짜 힐링",
+   "author": "폴 몰로니",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 9,
+   "date": "2019-10",
+   "title": "페이크",
+   "author": "로버트 기요사키",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 10,
+   "date": "2019-12",
+   "title": "90년생이 온다",
+   "author": "임홍택",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 11,
+   "date": "2020-01",
+   "title": "모든 순간의 물리학",
+   "author": "카를로 로벨리",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 12,
+   "date": "2020-04",
+   "title": "바르도의 링컨",
+   "author": "조지 손더스",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 13,
+   "date": "2020-09",
+   "title": "원칙",
+   "author": "레이 달리오",
+   "presenter": [],
+   "attend": null,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 14,
+   "date": "2020-11",
+   "title": "유토피아",
+   "author": "토마스 모어",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · 줌"
+  },
+  {
+   "no": 15,
+   "date": "2020-12",
+   "title": "틀리지 않는 법",
+   "author": "조던 엘렌버그",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · 줌"
+  },
+  {
+   "no": 16,
+   "date": "2021-01-09",
+   "title": "잘해봐야 시체가 되겠지만",
+   "author": "케이틀린 도티",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · 디스코드"
+  },
+  {
+   "no": 17,
+   "date": "2021-01-23",
+   "title": "북토크",
+   "author": "",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · 디스코드"
+  },
+  {
+   "no": 18,
+   "date": "2021-02-20",
+   "title": "세계미래보고서 2021",
+   "author": "박영숙, 제롬글렌",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · 디스코드"
+  },
+  {
+   "no": 19,
+   "date": "2021-03-06",
+   "title": "북토크(삼성라이징, 모순)",
+   "author": "",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": "온라인 · 줌"
+  },
+  {
+   "no": 20,
+   "date": "2021-03-20",
+   "title": "5분 뚝딱 철학",
+   "author": "김필영",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · Meet"
+  },
+  {
+   "no": 21,
+   "date": "2021-04-10",
+   "title": "북토크",
+   "author": "",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": "온라인 · Meet"
+  },
+  {
+   "no": 22,
+   "date": "2021-04-24",
+   "title": "종이동물원",
+   "author": "켄 리우",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": "온라인 · Meet"
+  },
+  {
+   "no": 23,
+   "date": "2021-05-15",
+   "title": "북토크",
+   "author": "",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": "온라인 · Meet"
+  },
+  {
+   "no": 24,
+   "date": "2021-06-13",
+   "title": "북토크",
+   "author": "",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": "온라인 · 웨일온"
+  },
+  {
+   "no": 25,
+   "date": "2022-01-15",
+   "title": "소크라테스 익스프레스",
+   "author": "에릭 와이너",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 26,
+   "date": "2022-02-12",
+   "title": "천개의 파랑",
+   "author": "천선란",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 27,
+   "date": "2022-03-26",
+   "title": "이순신의 바다",
+   "author": "황현필",
+   "presenter": [],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 28,
+   "date": "2022-04-23",
+   "title": "이토록 뜻밖의 뇌과학",
+   "author": "리사 펠드먼 배럿",
+   "presenter": [],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 29,
+   "date": "2022-05-28",
+   "title": "돈",
+   "author": "에밀 졸라",
+   "presenter": [],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 30,
+   "date": "2022-06-25",
+   "title": "지구는 괜찮아 우리가 문제지",
+   "author": "곽재식",
+   "presenter": [],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 31,
+   "date": "2022-07-23",
+   "title": "완전한 행복",
+   "author": "정유정",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 32,
+   "date": "2022-08-27",
+   "title": "빌게이츠 넥스트 팬데믹을 대비하는 방법",
+   "author": "빌게이츠",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 33,
+   "date": "2022-09-24",
+   "title": "앵무새 죽이기",
+   "author": "하퍼 리",
+   "presenter": [],
+   "attend": 8,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 34,
+   "date": "2022-10-22",
+   "title": "햄릿",
+   "author": "윌리엄 세익스피어",
+   "presenter": [],
+   "attend": 7,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 35,
+   "date": "2022-11-26",
+   "title": "새벽의 약속",
+   "author": "로맹 가리",
+   "presenter": [],
+   "attend": 5,
+   "planned": false,
+   "note": "강남역에서"
+  },
+  {
+   "no": 36,
+   "date": "2022-12-17",
+   "title": "북토크",
+   "author": "",
+   "presenter": [],
+   "attend": 9,
+   "planned": false,
+   "note": "강남역에서"
+  },
+  {
+   "no": 37,
+   "date": "2023-01-28",
+   "title": "모래의 여자",
+   "author": "아베 코보",
+   "presenter": [
+    "상O"
+   ],
+   "attend": 7,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 38,
+   "date": "2023-02-25",
+   "title": "서양미술사",
+   "author": "곰브리치",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 39,
+   "date": "2023-03-25",
+   "title": "나르치스와 골드문트",
+   "author": "헤르만 헤세",
+   "presenter": [
+    "주O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 40,
+   "date": "2023-04-29",
+   "title": "명랑한 은둔자",
+   "author": "캐롤라인 냅",
+   "presenter": [
+    "수O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 41,
+   "date": "2023-05-20",
+   "title": "아버지의 해방일지",
+   "author": "정지아",
+   "presenter": [],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 42,
+   "date": "2023-06-17",
+   "title": "모든 삶은 흐른다",
+   "author": "로랑스 드빌레르",
+   "presenter": [
+    "가O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 43,
+   "date": "2023-07-15",
+   "title": "고래",
+   "author": "천명관",
+   "presenter": [
+    "병O"
+   ],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 44,
+   "date": "2023-08-19",
+   "title": "남자의 자리",
+   "author": "아니 에르노",
+   "presenter": [
+    "세O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 45,
+   "date": "2023-09-16",
+   "title": "돈의 심리학",
+   "author": "모건 하우절",
+   "presenter": [
+    "상O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 46,
+   "date": "2023-10-28",
+   "title": "아비투스",
+   "author": "도리스 메르틴",
+   "presenter": [
+    "수O"
+   ],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 47,
+   "date": "2023-11-25",
+   "title": "물고기는 존재하지 않는다",
+   "author": "룰루밀러",
+   "presenter": [],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 48,
+   "date": "2023-12-16",
+   "title": "마흔에 읽는 그리스 로마신화",
+   "author": "장재형",
+   "presenter": [
+    "대O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 49,
+   "date": "2024-01-20",
+   "title": "상처받지 않을 권리",
+   "author": "강신주",
+   "presenter": [
+    "주O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 50,
+   "date": "2024-02-17",
+   "title": "아노말리",
+   "author": "에르베 르 텔리에",
+   "presenter": [],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 51,
+   "date": "2024-03-23",
+   "title": "자유론",
+   "author": "존 스튜어트 밀",
+   "presenter": [
+    "가O"
+   ],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 52,
+   "date": "2024-04-27",
+   "title": "죽음의 수용소에서",
+   "author": "빅터 프랭클",
+   "presenter": [
+    "병O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 53,
+   "date": "2024-05-25",
+   "title": "로빈슨 크루소",
+   "author": "대니얼 디포",
+   "presenter": [
+    "상O"
+   ],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 54,
+   "date": "2024-06-22",
+   "title": "노인과 바다",
+   "author": "헤밍웨이",
+   "presenter": [
+    "세O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 55,
+   "date": "2024-07-13",
+   "title": "초역 부처의 말",
+   "author": "코이케 류노스케",
+   "presenter": [
+    "대O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 56,
+   "date": "2024-08-24",
+   "title": "푸코 바르트 레비스트로스 라캉 쉽게 읽기",
+   "author": "우치다 타츠루",
+   "presenter": [
+    "주O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 57,
+   "date": "2024-09-28",
+   "title": "마흔에 읽는 쇼펜하우어",
+   "author": "강용수",
+   "presenter": [
+    "재O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 58,
+   "date": "2024-10-19",
+   "title": "붉은 수수밭",
+   "author": "모옌",
+   "presenter": [
+    "가O"
+   ],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 59,
+   "date": "2024-11-30",
+   "title": "모순",
+   "author": "양귀자",
+   "presenter": [
+    "병O"
+   ],
+   "attend": 7,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 60,
+   "date": "2024-12-21",
+   "title": "소년이 온다",
+   "author": "한강",
+   "presenter": [
+    "수O"
+   ],
+   "attend": 8,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 61,
+   "date": "2025-01-18",
+   "title": "도둑맞은 집중력",
+   "author": "요한 하리",
+   "presenter": [
+    "상O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 62,
+   "date": "2025-02-22",
+   "title": "급류",
+   "author": "정태건",
+   "presenter": [
+    "세O"
+   ],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 63,
+   "date": "2025-03-22",
+   "title": "왜 그들만 부자가 되는가",
+   "author": "필립 바구스",
+   "presenter": [
+    "대O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 64,
+   "date": "2025-04-19",
+   "title": "결국 잘되는 사람들의 태도",
+   "author": "앤드루 매코널",
+   "presenter": [
+    "재O"
+   ],
+   "attend": 7,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 65,
+   "date": "2025-05-24",
+   "title": "2025년 제48회 이상문학상작품집",
+   "author": "예소연 외",
+   "presenter": [
+    "하O"
+   ],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 66,
+   "date": "2025-06-21",
+   "title": "지리의 힘1",
+   "author": "팀 마샬",
+   "presenter": [
+    "수O"
+   ],
+   "attend": 3,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 67,
+   "date": "2025-07-26",
+   "title": "스토너",
+   "author": "존 윌리엄스",
+   "presenter": [
+    "병O"
+   ],
+   "attend": 7,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 68,
+   "date": "2025-08-23",
+   "title": "이방인",
+   "author": "알베르 까뮈",
+   "presenter": [
+    "현O"
+   ],
+   "attend": 7,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 69,
+   "date": "2025-09-20",
+   "title": "궤도",
+   "author": "서맨사 하비",
+   "presenter": [
+    "세O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 70,
+   "date": "2025-10-18",
+   "title": "넥서스",
+   "author": "유발 하라리",
+   "presenter": [
+    "대O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 71,
+   "date": "2025-11-15",
+   "title": "불한당들의 세계사",
+   "author": "호르헤 루이스 보르헤스",
+   "presenter": [
+    "하O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 72,
+   "date": "2025-12-13",
+   "title": "북토크",
+   "author": "",
+   "presenter": [],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 73,
+   "date": "2026-01-24",
+   "title": "1984",
+   "author": "조지오웰",
+   "presenter": [
+    "하O"
+   ],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 74,
+   "date": "2026-02-28",
+   "title": "싯다르타",
+   "author": "헤르만 헤세",
+   "presenter": [
+    "병O"
+   ],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 75,
+   "date": "2026-03-28",
+   "title": "프랑켄슈타인",
+   "author": "메리 셸리",
+   "presenter": [
+    "상O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 76,
+   "date": "2026-05-16",
+   "title": "프루스트와 오징어",
+   "author": "매리언 울프",
+   "presenter": [
+    "하O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 77,
+   "date": "2026-06-20",
+   "title": "데미안",
+   "author": "헤르만 헤세",
+   "presenter": [
+    "세O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 78,
+   "date": "2026-07-18",
+   "title": "말하지 않고 말하기",
+   "author": "김정운",
+   "presenter": [
+    "대O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 79,
+   "date": "2026-08-22",
+   "title": "마음",
+   "author": "나쓰메 소세키",
+   "presenter": [
+    "현O"
+   ],
+   "attend": 6,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 80,
+   "date": "2026-09-19",
+   "title": "이반 일리치의 죽음",
+   "author": "레프 톨스토이",
+   "presenter": [
+    "병O"
+   ],
+   "attend": 4,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 81,
+   "date": "2026-10-24",
+   "title": "홍학의 자리",
+   "author": "정해연",
+   "presenter": [
+    "상O"
+   ],
+   "attend": 5,
+   "planned": false,
+   "note": ""
+  },
+  {
+   "no": 82,
+   "date": "2026-11-21",
+   "title": "예감은 틀리지 않는다",
+   "author": "줄리언 반스",
+   "presenter": [
+    "현O"
+   ],
+   "attend": null,
+   "planned": true,
+   "note": ""
+  },
+  {
+   "no": 83,
+   "date": "2026-12",
+   "title": "",
+   "author": "",
+   "presenter": [
+    "세O"
+   ],
+   "attend": null,
+   "planned": true,
+   "note": ""
+  }
+ ],
+ "eras": [
+  {
+   "name": "2019–2022년",
+   "range": [
+    1,
+    36
+   ]
+  },
+  {
+   "name": "2023–2024년",
+   "range": [
+    37,
+    60
+   ]
+  },
+  {
+   "name": "2025년",
+   "range": [
+    61,
+    72
+   ]
+  },
+  {
+   "name": "2026년",
+   "range": [
+    73,
+    83
+   ]
+  }
+ ]
+}
