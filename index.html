@@ -97,6 +97,8 @@ header.mast { display: flex; flex-wrap: wrap; justify-content: space-between; al
 .no-tag { display: inline-block; padding: 2px 8px 3px; background: var(--accent); color: var(--accent-ink); font-size: 12px; font-weight: 700; line-height: 1.4; }
 .next h3 { font-size: 24px; font-weight: 700; letter-spacing: -0.03em; margin-top: 8px; }
 .next .meta { margin-top: 6px; color: var(--muted); font-size: 15px; }
+.next .prog { margin: 10px 0 0; padding-left: 20px; font-size: 15px; display: flex; flex-direction: column; gap: 2px; word-break: keep-all; }
+.next .prog li::marker { font-family: var(--mono); color: var(--accent); }
 .next .dday { margin-top: 12px; display: inline-block; font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: 0.06em; border: 1px solid var(--accent); color: var(--accent); padding: 2px 9px; }
 @media (max-width: 520px) { .next { grid-template-columns: 1fr; gap: 14px; padding: 22px 20px; } .next .datebox { text-align: left; } }
 
@@ -330,6 +332,7 @@ footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line)
           el('p', { class: 'label' }, [ e.no ? el('span', { class: 'no-tag', text: '제' + e.no + '회' }) : null, el('span', { text: e.title }) ]),
           el('h3', { text: e.book || e.title }),
           el('p', { class: 'meta', text: where + (e.host ? ' · 발제 ' + e.host : '') }),
+          (Array.isArray(e.program) && e.program.length) ? el('ol', { class: 'prog' }, e.program.slice(0, 6).map(function (x) { return el('li', { text: str(x, 80) }); })) : null,
           el('span', { class: 'dday', text: diff === 0 ? 'TODAY' : 'D-' + diff })
         ])
       ]));
@@ -422,7 +425,7 @@ footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line)
     if (p.length === 3) return p[0] + '. ' + Number(p[1]) + '. ' + Number(p[2]) + '.';
     return p[0] + '. ' + Number(p[1]) + (planned ? '월 예정' : '월');
   }
-  function isTalk(m) { return /^북토크/.test(m.title); }
+  function isTalk(m) { return /^(북토크|송년회)/.test(m.title); }
   function renderReading(j) {
     var today = todayKST();
     var ms = (j.meetings || []).filter(function (m) { return typeof m.no === 'number'; }).map(function (m) {
