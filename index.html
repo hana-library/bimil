@@ -412,7 +412,7 @@ footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line)
   function routeHash() { var m = /^#issue-(\d{4}-\d{2})$/.exec(location.hash); if (m) openIssue(m[1]); }
   window.addEventListener('hashchange', routeHash);
 
-  fetch('data/archive.json').then(function (r) { return r.json(); }).then(function (j) {
+  fetch('data/archive.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (j) {
     baked.issues = (j.issues || []).filter(function (x) { return validKey(x.key, /^\d{4}-\d{2}$/); });
     baked.events = (j.events || []).filter(function (x) { return validKey(x.key, /^\d{4}-\d{2}-\d{2}$/); });
     render(); routeHash();
@@ -479,7 +479,7 @@ footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line)
       ]));
     });
   }
-  fetch('data/rotation.json').then(function (r) { return r.json(); }).then(function (j) {
+  fetch('data/rotation.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (j) {
     var slots = (j.slots || []).filter(function (s) { return typeof s.no === 'number' && typeof s.month === 'number'; });
     if (!slots.length) return;
     $('rot-year').textContent = j.year + '년';
@@ -495,7 +495,7 @@ footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line)
     $('rotation').hidden = false;
   }).catch(function () {});
 
-  fetch('data/reading.json').then(function (r) { return r.json(); }).then(renderReading).catch(function () { $('reading').hidden = true; });
+  fetch('data/reading.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(renderReading).catch(function () { $('reading').hidden = true; });
 
 })();
 </script>
