@@ -899,8 +899,8 @@
    "presenter": [
     "현O"
    ],
-   "attend": null,
-   "planned": true,
+   "attend": 3,
+   "planned": false,
    "note": ""
   },
   {
